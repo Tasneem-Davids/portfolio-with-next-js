@@ -14,13 +14,13 @@ const Layout = (props) => {
 return <div>
     <Head>
 	{/*Global site tag (gtag.js) - Google Analytics*/}
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3YXYZX9KEH"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190187665-1"></script>
     <script dangerouslySetInnerHTML={
 		{__html: `window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
 	
-		gtag('config', 'G-3YXYZX9KEH');`}
+		gtag('config', 'UA-190187665-1');`}
 	}>
     </script>
 	   <link
