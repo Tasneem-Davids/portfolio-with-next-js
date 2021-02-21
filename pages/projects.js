@@ -73,7 +73,6 @@ const contentWrapper = {
    color: "rgb(240, 112, 62)",
    fontFamily: "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",
    width: 500,
-   marginLeft: -10
   }
   
  const div = {
