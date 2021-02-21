@@ -84,7 +84,7 @@ const contentWrapper = {
  
  const listItem = {
     width: 400,
-    marginLeft: 100,
+    marginLeft: 80,
  }
  
  const secondlistItem = {
