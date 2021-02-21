@@ -86,6 +86,10 @@ const contentWrapper = {
     width: 400,
     marginLeft: 100,
  }
+ 
+ const secondlistItem = {
+    width 400
+ }
 
 export default () => {
    return <Layout>   
