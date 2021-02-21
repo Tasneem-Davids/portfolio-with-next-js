@@ -64,7 +64,8 @@ const contentWrapper = {
    fontSize: 22,
    color: "rgb(240, 112, 62)",
    fontFamily: "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",
-   width: 510
+   width: 510,
+   marginLeft: -10
  }
   
   const secondParaghraph = {
@@ -120,7 +121,7 @@ export default () => {
         <br/>
         </div>
        <div style={div}>
-       <p style={p}>   
+       <p style={secondParaghraph}>   
           The links to your left are the codes of applications that I later deployed, and if you would like to see the deployed apps you can click on the links below
         </p> 
          <ul style={font}>
