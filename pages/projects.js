@@ -58,8 +58,8 @@ const contentWrapper = {
    fontSize: 22,
    color: "rgb(240, 112, 62)",
    fontFamily: "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",
-   width: 500,
-   marginLeft: -50
+   width: 510,
+   marginLeft: -60
  }
 
  const div = {
