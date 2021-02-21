@@ -69,7 +69,7 @@ const contentWrapper = {
  
  const listItem = {
     width: 400,
-    marginLeft: 105,
+    marginLeft: 100,
  }
 
 export default () => {
