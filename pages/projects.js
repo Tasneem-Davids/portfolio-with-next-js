@@ -66,6 +66,10 @@ const contentWrapper = {
    textAlign: "center",
    marginTop: -230
  }
+ 
+ const listItem = {
+    width: 500,
+ }
 
 export default () => {
    return <Layout>   
@@ -106,7 +110,7 @@ export default () => {
          <ul style={font}>
                <li><Link href="https://capstone-project-1-snake-game.herokuapp.com/"><a style={font}>My first capstone project of level 2 (A simple snake game made with React.js)</a></Link></li>
                <br/>
-               <li><Link href="https://capstone-project-2-level-2.herokuapp.com/"><a style={font}>My second capstone project of level 2 (A full stack app for searching iTunes Store and Apple Book Store)</a></Link></li>
+               <li style={listItem}><Link href="https://capstone-project-2-level-2.herokuapp.com/"><a style={font}>My second capstone project of level 2 (A full stack app for searching iTunes Store and Apple Book Store)</a></Link></li>
                <br/>
                <li><Link href="https://final-capstone-project-l3.herokuapp.com/"><a style={font}>My final capstone project (A MERN app for keeping track of appointments)</a></Link></li>
         </ul>
