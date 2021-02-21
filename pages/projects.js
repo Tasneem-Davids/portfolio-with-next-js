@@ -88,7 +88,7 @@ const contentWrapper = {
  }
  
  const secondlistItem = {
-    width 400
+    width: 400
  }
 
 export default () => {
