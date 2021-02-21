@@ -58,9 +58,16 @@ const contentWrapper = {
    fontSize: 22,
    color: "rgb(240, 112, 62)",
    fontFamily: "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",
+ }
+ 
+  const firstParagraph = {
+   fontSize: 22,
+   color: "rgb(240, 112, 62)",
+   fontFamily: "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",
    width: 510,
    marginLeft: -20
  }
+
 
  const div = {
    width: 550,
@@ -95,7 +102,7 @@ export default () => {
       <div style={text}>
       <h1 style={heading}>My Projects</h1>
         <br/>
-        <p style={p}>
+        <p style={firstParagraph}>
            If you are interested in checking out some of the work I've done thus far in my bootcamp, Github would be the place to visit. All code for important tasks 
            that I've done previously, can be seen in Github. Here are links to these repos: 
         </p>
