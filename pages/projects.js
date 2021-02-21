@@ -128,7 +128,7 @@ export default () => {
           The links to your left are the codes of applications that I later deployed, and if you would like to see the deployed apps you can click on the links below
         </p> 
          <ul style={font}>
-               <li><Link href="https://capstone-project-1-snake-game.herokuapp.com/"><a style={font}>My first capstone project of level 2 (A simple snake game made with React.js)</a></Link></li>
+               <li style={secondlistItem}><Link href="https://capstone-project-1-snake-game.herokuapp.com/"><a style={font}>My first capstone project of level 2 (A simple snake game made with React.js)</a></Link></li>
                <br/>
                <li style={listItem}><Link href="https://capstone-project-2-level-2.herokuapp.com/"><a style={font}>My second capstone project of level 2 (A full stack app for searching iTunes Store and Apple Book Store)</a></Link></li>
                <br/>
