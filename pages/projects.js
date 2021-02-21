@@ -67,8 +67,15 @@ const contentWrapper = {
    width: 510,
    marginLeft: -20
  }
-
-
+  
+  const secondParaghraph = {
+    fontSize: 22,
+   color: "rgb(240, 112, 62)",
+   fontFamily: "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",
+   width: 495,
+   marginRight: -25
+  }
+  
  const div = {
    width: 550,
    marginLeft: 900,
