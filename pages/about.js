@@ -61,7 +61,8 @@ export default () => {
       <a style={linkStyle}>projects</a>
       </Link>
       <img src="/static/image/aboutme.gif" style={img}/>
-      <p style={p}>Hi my name is Tazneem Davids, and I'm currently 23 years old and learning my way around coding. Coding was not initially what I wanted to persue,
+      <p style={p}>Hi my name is Tazneem Davids, and I'm currently 23 years old and although I have successfully completed 
+            my Full Stack Web Development bootcamp, I am still learning my way around coding. Coding was not initially what I wanted to persue,
             because of the fact that I love art and design so much. After I matriculated, I decided to study Visual 
             Communication Design at the Cape Peninsula University of Technology for a year, which I successfully completed, 
             but I was not able to continue my studies due to financial reasons. It was then that I interned at Highbury 
