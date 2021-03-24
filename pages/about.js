@@ -33,7 +33,7 @@ const contentWrapper = {
     fontSize: 22,
     color: "rgb(19, 39, 83)",
     fontFamily: "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",
-    marginTop: 210,
+    marginTop: 140,
     marginLeft: 20,
     textAlign: "center",
   }
